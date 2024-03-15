@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[if e != nil {
+    log.Println(e)
+    return e
+}]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>iepre</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.go</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>iepre</description>
+</snippet>

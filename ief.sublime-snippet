@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[if e != nil {
+    log.Panic(e)
+    return
+}]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>ief</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.go</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>ief</description>
+</snippet>

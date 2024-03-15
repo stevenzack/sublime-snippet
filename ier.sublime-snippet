@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[if end {
+    return 
+}]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>ier</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.go</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>ier</description>
+</snippet>

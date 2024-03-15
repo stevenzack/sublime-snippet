@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[w http.ResponseWriter, r *http.Request]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>wr</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.go</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>wr</description>
+</snippet>
